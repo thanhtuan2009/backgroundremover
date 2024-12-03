@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:9
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:8.522722,
-https://abc.com/screen-capture-_18_/stream0.js
+https://raw.githubusercontent.com/thanhtuan2009/backgroundremover/refs/heads/main/examplefiles/screen-capture-_18_/stream0.js
 #EXTINF:6.647333,
-https://abc.com/screen-capture-_18_/stream1.js
+https://raw.githubusercontent.com/thanhtuan2009/backgroundremover/refs/heads/main/examplefiles/screen-capture-_18_/stream1.js
 #EXT-X-ENDLIST
